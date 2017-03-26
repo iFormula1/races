@@ -1,0 +1,182 @@
+[
+	{
+		"POS": "1",
+		"NO": "5",
+		"DRIVER": "Sebastian Vettel",
+		"CAR": "FERRARI",
+		"LAPS": "57",
+		"TIME/RETIRED": "01:24:12",
+		"PTS": "25"
+	},
+	{
+		"POS": "2",
+		"NO": "44",
+		"DRIVER": "Lewis Hamilton",
+		"CAR": "MERCEDES",
+		"LAPS": "57",
+		"TIME/RETIRED": "9.975s",
+		"PTS": "18"
+	},
+	{
+		"POS": "3",
+		"NO": "77",
+		"DRIVER": "Valtteri Bottas",
+		"CAR": "MERCEDES",
+		"LAPS": "57",
+		"TIME/RETIRED": "11.250s",
+		"PTS": "15"
+	},
+	{
+		"POS": "4",
+		"NO": "7",
+		"DRIVER": "Kimi Räikkönen",
+		"CAR": "FERRARI",
+		"LAPS": "57",
+		"TIME/RETIRED": "22.393s",
+		"PTS": "12"
+	},
+	{
+		"POS": "5",
+		"NO": "33",
+		"DRIVER": "Max Verstappen",
+		"CAR": "RED BULL RACING TAG HEUER",
+		"LAPS": "57",
+		"TIME/RETIRED": "28.827s",
+		"PTS": "10"
+	},
+	{
+		"POS": "6",
+		"NO": "19",
+		"DRIVER": "Felipe Massa",
+		"CAR": "WILLIAMS MERCEDES",
+		"LAPS": "57",
+		"TIME/RETIRED": "83.386s",
+		"PTS": "8"
+	},
+	{
+		"POS": "7",
+		"NO": "11",
+		"DRIVER": "Sergio Perez",
+		"CAR": "FORCE INDIA MERCEDES",
+		"LAPS": "56",
+		"TIME/RETIRED": "1 lap",
+		"PTS": "6"
+	},
+	{
+		"POS": "8",
+		"NO": "55",
+		"DRIVER": "Carlos Sainz",
+		"CAR": "TORO ROSSO",
+		"LAPS": "56",
+		"TIME/RETIRED": "1 lap",
+		"PTS": "4"
+	},
+	{
+		"POS": "9",
+		"NO": "26",
+		"DRIVER": "Daniil Kvyat",
+		"CAR": "TORO ROSSO",
+		"LAPS": "56",
+		"TIME/RETIRED": "1 lap",
+		"PTS": "2"
+	},
+	{
+		"POS": "10",
+		"NO": "31",
+		"DRIVER": "Esteban Ocon",
+		"CAR": "FORCE INDIA MERCEDES",
+		"LAPS": "56",
+		"TIME/RETIRED": "1 lap",
+		"PTS": "1"
+	},
+	{
+		"POS": "11",
+		"NO": "27",
+		"DRIVER": "Nico Hulkenberg",
+		"CAR": "RENAULT",
+		"LAPS": "56",
+		"TIME/RETIRED": "1 lap",
+		"PTS": "0"
+	},
+	{
+		"POS": "12",
+		"NO": "36",
+		"DRIVER": "Antonio Giovinazzi",
+		"CAR": "SAUBER FERRARI",
+		"LAPS": "55",
+		"TIME/RETIRED": "2 laps",
+		"PTS": "0"
+	},
+	{
+		"POS": "13",
+		"NO": "2",
+		"DRIVER": "Stoffel Vandoorne",
+		"CAR": "MCLAREN HONDA",
+		"LAPS": "55",
+		"TIME/RETIRED": "2 laps",
+		"PTS": "0"
+	},
+	{
+		"POS": "NC",
+		"NO": "14",
+		"DRIVER": "Fernando Alonso",
+		"CAR": "MCLAREN HONDA",
+		"LAPS": "50",
+		"TIME/RETIRED": "DNF",
+		"PTS": "0"
+	},
+	{
+		"POS": "NC",
+		"NO": "20",
+		"DRIVER": "Kevin Magnussen",
+		"CAR": "HAAS FERRARI",
+		"LAPS": "46",
+		"TIME/RETIRED": "DNF",
+		"PTS": "0"
+	},
+	{
+		"POS": "NC",
+		"NO": "18",
+		"DRIVER": "Lance Stroll",
+		"CAR": "WILLIAMS MERCEDES",
+		"LAPS": "40",
+		"TIME/RETIRED": "DNF",
+		"PTS": "0"
+	},
+	{
+		"POS": "NC",
+		"NO": "3",
+		"DRIVER": "Daniel Ricciardo",
+		"CAR": "RED BULL RACING TAG HEUER",
+		"LAPS": "25",
+		"TIME/RETIRED": "DNF",
+		"PTS": "0"
+	},
+	{
+		"POS": "NC",
+		"NO": "9",
+		"DRIVER": "Marcus Ericsson",
+		"CAR": "SAUBER FERRARI",
+		"LAPS": "21",
+		"TIME/RETIRED": "DNF",
+		"PTS": "0"
+	},
+	{
+		"POS": "NC",
+		"NO": "30",
+		"DRIVER": "Jolyon Palmer",
+		"CAR": "RENAULT",
+		"LAPS": "15",
+		"TIME/RETIRED": "DNF",
+		"PTS": "0"
+	},
+	{
+		"POS": "NC",
+		"NO": "8",
+		"DRIVER": "Romain Grosjean",
+		"CAR": "HAAS FERRARI",
+		"LAPS": "13",
+		"TIME/RETIRED": "DNF",
+		"PTS": "0"
+	}
+]
